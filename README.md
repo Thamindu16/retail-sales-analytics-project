@@ -43,12 +43,10 @@ Built a two-page interactive dashboard:
 
 ## Dashboard Preview
 
-*(Add a screenshot of each dashboard page here — drag and drop images directly into this file on GitHub, or upload them to the repo and reference them like this:)*
+<img width="1419" height="774" alt="Page 1 Sales Overview" src="https://github.com/user-attachments/assets/7f71f95c-f8ec-4cfb-978f-3111b9b602dc" />
+<img width="1416" height="775" alt="Page 2 Customer Insights" src="https://github.com/user-attachments/assets/8c5efcc0-1afd-4c09-a714-0953b4bed345" />
 
-```markdown
-![Sales Overview](images/dashboard_page1.png)
-![Customer Insights](images/dashboard_page2.png)
-```
+
 
 ## Files in This Repository
 
